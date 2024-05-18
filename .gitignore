@@ -1,0 +1,15 @@
+ANOTACOES
+
+# PRODUCT API
+product-api/.vscode
+product-api/src/main/resources/application.properties
+
+# AUTH-API
+auth-api/.env
+auth-api/node_modules
+auth-api/package-lock.json
+auth-api/microservice_sales.code-workspace
+
+# SALES-API
+sales-api/.env
+sales-api/node_modules
