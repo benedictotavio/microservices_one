@@ -1,0 +1,2 @@
+@url = http://localhost:3000/auth
+GET {{url}} HTTP/1.1
